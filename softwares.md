@@ -51,3 +51,16 @@
 > Anaconda Python (https://www.anaconda.com/products/distribution)
 
 > Biopython (https://biopython.org)
+
+> Shell Script (https://pt.wikipedia.org/wiki/Shell_script)
+
+
+### Fóruns
+
+> BioStars (https://www.biostars.org/)
+
+> Pt StackOverFlow (https://pt.stackoverflow.com/)
+
+> Viva o Linux (https://www.vivaolinux.com.br/)
+
+> Ask Ubuntu (https://askubuntu.com/)
