@@ -1,1 +1,1 @@
-# bioinfo
+# Guia para Bioinformática e Química computacional
