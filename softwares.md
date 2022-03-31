@@ -36,6 +36,8 @@
 
 > MGLTools (https://ccsb.scripps.edu/mgltools/)
 
+> HPEPDOCK Server (http://huanglab.phys.hust.edu.cn/hpepdock/)
+
 
 
 ### Dinâmica molecular
