@@ -23,6 +23,8 @@
 
 > MODELLER (https://salilab.org)
 
+> AlphaFol2 (https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
+
 
 ### Docking Molecular
 
