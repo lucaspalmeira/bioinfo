@@ -1,3 +1,22 @@
+### Alinhamento de sequências
+
+> Jalview (https://www.jalview.org/)
+
+> MEGA (https://www.megasoftware.net)
+
+> BLAST (https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+
+> MUMmer (https://github.com/mummer4/mummer)
+
+> Clustal Omega (https://www.ebi.ac.uk/Tools/msa/clustalo/)
+
+> MAFFT (https://mafft.cbrc.jp/alignment/software/)
+
+> MUSCLE (https://www.ebi.ac.uk/Tools/msa/muscle/)
+
+> T-COFFEE (https://tcoffee.crg.eu/)
+
+
 ### Modelagem molecular
 
 > SWISS-MODEL (https://swissmodel.expasy.org/)
@@ -35,14 +54,17 @@
 > Avogadro (https://avogadro.cc/)
 
 
-### Alinhamento de sequências
+### Descritores químicos (QSAR)
 
-> Jalview (https://www.jalview.org/)
+> Chemistry Development Kit (https://cdk.github.io/)
 
-> MEGA (https://www.megasoftware.net)
+> RDKit (https://www.rdkit.org/)
 
-> BLAST (https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+> Open Babel (http://openbabel.org/wiki/Main_Page)
 
+> Padel-Descriptor (http://www.yapcwsoft.com/dd/padeldescriptor/)
+
+> Pydel (https://github.com/rolsdorph/pydel)
 
 ### Programação
 
@@ -54,6 +76,19 @@
 
 > Shell Script (https://pt.wikipedia.org/wiki/Shell_script)
 
+> BioPerl (https://bioperl.org)
+
+> Biojava (https://biojava.org)
+
+> Scikit-Bio (http://scikit-bio.org/docs/0.1.3/index.html)
+
+
+### Ferramentas de bioinformática
+
+> Galaxy (https://usegalaxy.org/)
+
+> Emboss (https://www.bioinformatics.nl/emboss-explorer/)
+
 
 ### Fóruns
 
@@ -64,3 +99,31 @@
 > Viva o Linux (https://www.vivaolinux.com.br/)
 
 > Ask Ubuntu (https://askubuntu.com/)
+
+
+### Cursos
+
+> Introdução à Ciência da Computação com Python Parte 1 (https://pt.coursera.org/learn/ciencia-computacao-python-conceitos)
+
+> Introdução a Ciência de Dados (https://www.datascienceacademy.com.br/cursosgratuitos)
+
+
+### Bases de dados
+
+> Protein Data Bank - PDB (https://www.rcsb.org)
+
+> Pubchem (https://pubchem.ncbi.nlm.nih.gov)
+
+> Drug Bank (https://go.drugbank.com/)
+
+> ChEMBL (https://www.ebi.ac.uk/chembl/)
+
+> Swissprot (https://www.expasy.org/resources/uniprotkb-swiss-prot)
+
+> Uniprot (https://www.uniprot.org/)
+
+> ChEBI (https://www.ebi.ac.uk/chebi/)
+
+> APD3 - Antimicrobial Peptide Database (https://aps.unmc.edu/)
+
+> PepBDB (http://huanglab.phys.hust.edu.cn/pepbdb/)
