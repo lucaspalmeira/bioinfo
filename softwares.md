@@ -93,6 +93,8 @@
 
 > Emboss (https://www.bioinformatics.nl/emboss-explorer/)
 
+> BioPep (https://github.com/lucaspalmeira/BioPep)
+
 
 ### Fóruns
 
