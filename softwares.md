@@ -116,11 +116,15 @@
 
 ### Bases de dados
 
+> GenBank (https://www.ncbi.nlm.nih.gov/genbank/)
+
 > Protein Data Bank - PDB (https://www.rcsb.org)
 
 > Pubchem (https://pubchem.ncbi.nlm.nih.gov)
 
 > Drug Bank (https://go.drugbank.com/)
+
+> Zinc 15 (https://zinc15.docking.org/)
 
 > ChEMBL (https://www.ebi.ac.uk/chembl/)
 
