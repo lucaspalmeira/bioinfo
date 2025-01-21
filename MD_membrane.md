@@ -49,6 +49,8 @@ Produção sem GPU
 gmx mdrun -nt 22 -v -deffnm step7_production &
 ```
 
+### Pós-processamento
+
 ### 1. **Centralizar a Trajetória**
 Gere um arquivo centrado:
 
